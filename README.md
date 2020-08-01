@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/anaconda-FB7A24.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HTML-0078D7.svg?&style=for-the-badge&logo=html&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/HTML-0078D7.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
 </p>
 
 <br />
