@@ -1,11 +1,11 @@
 ### Hi there, I'm Hanchao [Personal Website][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## I'm a PhD student, Cat Father, Biostatistician, and Chinese Calligraphier!
+- 🔭 I’m currently working on a [Functional Data Analysis][FDA]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to dive and swim
 
 ### Connect with me:
 
@@ -66,6 +66,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: http://www.hanchaozhang.xyz/
+[FDA]:http://www.hanchaozhang.xyz/post/fda/
 [twitter]: https://twitter.com/tedddddy_zhang
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/tedddddd_y/
