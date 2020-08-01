@@ -12,6 +12,7 @@
 <br />
 
 
+
 ## I'm a PhD student, Cat Father, Biostatistician, and Chinese Calligraphier!
 - 🔭 I’m currently working on a [Functional Data Analysis][FDA]!
 - 🌱 I’m currently learning everything 🤣
@@ -20,6 +21,8 @@
 - ⚡ Fun fact: I love to dive and swim
 
 <br />
+
+---
 
 ### Languages and Tools:
 
