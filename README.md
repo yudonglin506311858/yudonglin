@@ -9,6 +9,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
+
 ## I'm a PhD student, Cat Father, Biostatistician, and Chinese Calligraphier!
 - 🔭 I’m currently working on a [Functional Data Analysis][FDA]!
 - 🌱 I’m currently learning everything 🤣
