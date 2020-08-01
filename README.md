@@ -70,7 +70,9 @@
 [instagram]: https://www.instagram.com/tedddddd_y
 [linkedin]: https://www.linkedin.com/in/hanchao-zhang-670105b7/
 [googlescholar]: https://scholar.google.com/citations?hl=en&user=bePCCD8AAAAJ
-
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 <!--
 **Hanchao-Zhang/Hanchao-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
