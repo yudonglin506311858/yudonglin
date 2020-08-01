@@ -48,8 +48,6 @@
 <img src="https://img.shields.io/badge/matlab-0078D7.svg?&style=for-the-badge&logo=MATLAB&logoColor=white" height="25"/>
 </p>
 
-<br />
-<br />
 
 
 ---
