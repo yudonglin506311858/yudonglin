@@ -23,6 +23,14 @@
 
 <br />
 
+
+---
+
+<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hanchao-Zhang&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanchao-Zhang&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ### Languages and Tools:
@@ -41,19 +49,13 @@
 <br />
 <br />
 
+
 ---
 
 ### 📓Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [First Post](https://dev.to/hanchaozhang/first-post-4edk)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hanchao-Zhang&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanchao-Zhang&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
