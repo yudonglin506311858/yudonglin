@@ -1,4 +1,4 @@
-### Hi there, I'm [Hanchao][http://www.hanchaozhang.xyz/] 👋
+### Hi there, I'm [Hanchao][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -65,15 +65,12 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: http://www.hanchaozhang.xyz/
+[twitter]: https://twitter.com/tedddddy_zhang
+[instagram]: https://www.instagram.com/tedddddd_y
+[linkedin]: https://www.linkedin.com/in/hanchao-zhang-670105b7/
+[googlescholar]: https://scholar.google.com/citations?hl=en&user=bePCCD8AAAAJ
+
 <!--
 **Hanchao-Zhang/Hanchao-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
