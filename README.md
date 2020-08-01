@@ -30,11 +30,9 @@
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/R-8892BF.svg?&style=for-the-badge&logo=r&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Rstudio-8892BF.svg?&style=for-the-badge&logo=Rstudio&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Rstudio-F7DF1E.svg?&style=for-the-badge&logo=Rstudio&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-FFCA28.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
