@@ -52,6 +52,7 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Functional Logistic Regression](https://dev.to/hanchaozhang/functional-logistic-regression-31b9)
 - [First Post](https://dev.to/hanchaozhang/first-post-4edk)
 <!-- BLOG-POST-LIST:END -->
 
