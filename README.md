@@ -48,7 +48,6 @@
 </p>
 
 
-
 ---
 
 ### Recent Blog Posts
