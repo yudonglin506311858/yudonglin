@@ -30,6 +30,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/R-8892BF.svg?&style=for-the-badge&logo=r&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Rstudio-8892BF.svg?&style=for-the-badge&logo=Rstudio&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
