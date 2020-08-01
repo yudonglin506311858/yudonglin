@@ -14,7 +14,7 @@
 
 
 
-## I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
+### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
 - 🔭 I’m currently working on a [Functional Data Analysis][FDA]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
