@@ -17,7 +17,7 @@
 
 
 ### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
-- 🔭 I’m currently working on [Functional Data Analysis][FDA] !
+- 🔭 I’m currently working on [Functional Data Analysis][FDA] and Machine Learning!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
