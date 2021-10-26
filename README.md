@@ -59,7 +59,7 @@
 
 
 
-[website]: http://www.hanchaozhang.xyz/
+[website]: http://hanchaozhang.xyz
 [FDA]:http://www.hanchaozhang.xyz/post/fda/
 [twitter]: https://twitter.com/tedddddy_zhang
 [youtube]: https://youtube.com/codeSTACKr
