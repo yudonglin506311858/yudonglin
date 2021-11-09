@@ -17,7 +17,7 @@
 
 
 ### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
-- 🔭 I’m currently working on [Functional Data Analysis][FDA] and Machine Learning!
+- 🔭 I’m currently working on Functional Data Analysis, Unsupervised and Semi-supervised Learning and Fairness Machine Learning!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -60,7 +60,6 @@
 
 
 [website]: http://hanchaozhang.xyz
-[FDA]:http://www.hanchaozhang.xyz/post/fda/
 [twitter]: https://twitter.com/tedddddy_zhang
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/tedddddd_y/
