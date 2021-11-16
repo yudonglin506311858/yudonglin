@@ -20,7 +20,6 @@
 - 🔭 I’m currently working on Functional Data Analysis, Unsupervised and Semi-supervised Learning and Fairness Machine Learning!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dive and swim
 
 
