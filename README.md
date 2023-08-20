@@ -8,7 +8,6 @@
 ## Contact Information:
  •	Email: yudonglin@stu.pku.edu.cn
  
- •	Phone: +86 15625048595
  
  •	Address: Department of Biochemistry and Biophysics, Peking University Health Science Center, Beijing 100191, PR China
 ## Education:
