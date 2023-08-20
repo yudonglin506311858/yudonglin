@@ -24,7 +24,7 @@
 •	Programming languages: Python, R
 ## Publications:
 •	yet to come~
-##Honors and Awards:
+## Honors and Awards:
 •	yet to come~
 
 
