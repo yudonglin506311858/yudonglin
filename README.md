@@ -1,4 +1,4 @@
-### Hi there, I'm Donglin Yu [Personal Website][website] 👋
+### Hi there, I'm Donglin Yu  👋
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-### I'm a PhD student!
+### I'm a PhD student in Peking University!
 
 
 ---
