@@ -16,7 +16,9 @@
  •	Address: Department of Biochemistry and Biophysics, Peking University Health Science Center, Beijing 100191, PR China
 ## Education:
  •	Ph.D. in Biochemistry, Peking University, 2022-2026
+ 
  •	M.S. in Biochemistry, Peking Union Medical College, 2019-2022
+ 
  •	B.S. in preclinical medicine, Southern Medical University, 2014-2019
 
 
