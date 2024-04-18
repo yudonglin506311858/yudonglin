@@ -19,7 +19,8 @@
 ## Skills:
 •	Programming languages: Python, R
 ## Publications:
-•	yet to come~
+
+
 Han, Gaijing; Cao, Cong; Yang, Xi; Zhao, Guo-Wei; Hu, Xin-Jun; Yu, Dong-Lin; Yang, Rui-Feng; Yang, Ke; Zhang, Ying-Ying; Wang, Wen-Tian; 	Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of β-thalassemia	Redox biology
 
 Cao, Fang; Jiang, Yunpeng; Chang, Lin; Du, Hongzhen; Chang, De; Pan, Chunxiao; Huang, Xiaozheng; Yu, Donglin; Zhang, Mi; Fan, Yongna; 	High-throughput functional screen identifies YWHAZ as a key regulator of pancreatic cancer metastasis	Cell Death & Disease
@@ -36,7 +37,9 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; Yu, Donglin; Yang, Xinyan; Zhou, Bin; G
 
 
 ## Honors and Awards:
-•	yet to come~
+•	Hematopoietic stem cell donor (Rank 16280 in China)
+
+•	Three-time marathon runner 
 
 
 
