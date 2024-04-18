@@ -21,13 +21,19 @@
 ## Publications:
 •	yet to come~
 Han, Gaijing; Cao, Cong; Yang, Xi; Zhao, Guo-Wei; Hu, Xin-Jun; Yu, Dong-Lin; Yang, Rui-Feng; Yang, Ke; Zhang, Ying-Ying; Wang, Wen-Tian; 	Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of β-thalassemia	Redox biology
+
 Cao, Fang; Jiang, Yunpeng; Chang, Lin; Du, Hongzhen; Chang, De; Pan, Chunxiao; Huang, Xiaozheng; Yu, Donglin; Zhang, Mi; Fan, Yongna; 	High-throughput functional screen identifies YWHAZ as a key regulator of pancreatic cancer metastasis	Cell Death & Disease
+
 YU, Dong-lin; YANG, Xi; YIN, Jia-ying; LIU, Xue-hui; LYU, Xiang; 	Nuclear transcription factors NFYB and NFYC promote terminal erythroid differentiation	Basic & Clinical Medicine
 SHI, Li-fang; YU, Dong-lin; LIU, Xue-hui; LYU, Xiang; 	Characterizing stage-specific transcriptome of terminal erythroid differentiation in bone marrow of β-654 thalassemia mice	Basic & Clinical Medicine
+
 WANG, Jiaxin; YU, Donglin; YANG, Xi; LIU, Xuehui; LYU, Xiang; 	Ikzf1 promotes terminal differentiation of mouse fetal liver derived erythroid cells	Basic & Clinical Medicine
+
 HU, Xin-jun; YU, Dong-lin; FAN, Hong; HAN, Gai-jing; XUE, Zheng; LYU, Xiang; 	Protein tyrosine phosphatase 4A3 (PTP4A3) promotes enucleation in mouse fetal liver-derived erythroid cells	Basic & Clinical Medicine
+
 Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; Yu, Donglin; Yang, Xinyan; Zhou, Bin; Gao, Jie; Zhao, Yang; 	Osr1-mediated mesothelial transition of liver mesenchymal cells exacerbates fibrotic liver damage	Molecular Therapy
-![image](https://github.com/yudonglin506311858/yudonglin/assets/25711412/467f5e33-4ead-4591-bebd-6997f180a710)
+
+
 
 ## Honors and Awards:
 •	yet to come~
