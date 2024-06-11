@@ -3,13 +3,14 @@
 <br />
 
 
-### I'm a PhD student in Peking University!
+### I'm a PhD candidate in Peking University!
 
 ## Contact Information:
  •	Email: yudonglin@stu.pku.edu.cn
  
  
  •	Address: Department of Biochemistry and Biophysics, Peking University Health Science Center, Beijing 100191, PR China
+ 
 ## Education:
  •	Ph.D. in Biochemistry, Peking University, 2022-2026
  
@@ -39,7 +40,7 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bi
 ## Honors and Awards:
 •	Hematopoietic stem cell donor (Rank 16280 in China)
 
-•	Three-time marathon runner 
+•	Four-time marathon runner 
 
 
 
