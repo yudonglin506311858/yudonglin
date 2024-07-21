@@ -18,7 +18,7 @@
  
  •	B.S. in preclinical medicine, Southern Medical University, 2014-2019
 ## Skills:
-•	Programming languages: Python, R
+•	Programming languages: R, Python, linux 
 ## Publications:
 
 
