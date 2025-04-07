@@ -48,7 +48,7 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bi
 •	The Excellent Medical Student Scholarship(Grade 2)
 
 
-## Personla Websites:
+## Personal Websites:
 •	website：https://www.x-mol.com/groups/kailong_li_lab/people/37618
 
 •	ORCID：https://orcid.org/my-orcid?orcid=0000-0003-2250-267X
