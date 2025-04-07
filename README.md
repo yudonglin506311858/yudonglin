@@ -13,7 +13,7 @@
  •	Address: Department of Biochemistry and Biophysics, Peking University Health Science Center, Beijing 100191, PR China
  
 ## Education:
- •	Ph.D. in Biochemistry, Peking University, 2022-2026
+ •	Ph.D. in Biochemistry, Peking University, 2022-now
  
  •	M.S. in Biochemistry, Peking Union Medical College, 2019-2022
  
@@ -43,8 +43,12 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bi
 
 •	Four-time marathon runner 
 
+•	Award for Academic Excellence(Peking University, 2024)
 
-## Honors and Awards:
+•	The Excellent Medical Student Scholarship(Grade 2)
+
+
+## Personla Websites:
 •	website：https://www.x-mol.com/groups/kailong_li_lab/people/37618
 
 •	ORCID：https://orcid.org/my-orcid?orcid=0000-0003-2250-267X
