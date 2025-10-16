@@ -41,11 +41,13 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bi
 ## Honors and Awards:
 •	Hematopoietic stem cell donor (Rank 16280 in China)
 
-•	Four-time marathon runner 
+•	Four-time marathon, two-time half-marathon runner 
 
 •	Award for Academic Excellence(Peking University, 2024)
 
 •	The Excellent Medical Student Scholarship(Grade 2)
+
+•	Excellent Graduate Teaching Assistant(Peking University, 2025)
 
 
 ## Personal Websites:
