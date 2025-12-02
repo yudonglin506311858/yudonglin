@@ -62,10 +62,6 @@ Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bi
 
 ---
 
-<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yudonglin506311858&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudonglin506311858&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
