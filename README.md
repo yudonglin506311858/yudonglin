@@ -36,7 +36,7 @@
 [6] G. Han, C. Cao, X. Yang, G.W. Zhao, X.J. Hu, **D.L. Yu**, R.F. Yang, K. Yang, Y.Y. Zhang, W.T. Wang, X.Z. Liu, P. Xu, X.H. Liu, P. Chen, Z. Xue, D.P. Liu, X. Lv, Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of β-thalassemia, Redox biology 50 (2022) 102239.
 
 
-## Honors and Awards:https://github.com/yudonglin506311858/yudonglin/blob/master/%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5-20260102.pdf
+## Honors and Awards:(https://github.com/yudonglin506311858/yudonglin/blob/master/%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5-20260102.pdf)
 •	Hematopoietic stem cell donor (Rank 16280 in China)
 
 •	Four-time marathon, two-time half-marathon runner 
