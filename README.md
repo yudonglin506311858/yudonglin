@@ -1,4 +1,4 @@
-#### Hi there, I'm Donglin Yu  👋
+#### Hi there, I'm Donglin Yu（余东林）
 ![余东林](https://github.com/user-attachments/assets/36912de9-d025-4f33-aa4b-b0a3e23be4ae)
 
 <br />
@@ -23,19 +23,17 @@
 ## Publications:
 
 
-Han, Gaijing; Cao, Cong; Yang, Xi; Zhao, Guo-Wei; Hu, Xin-Jun; **Yu, Dong-Lin**; Yang, Rui-Feng; Yang, Ke; Zhang, Ying-Ying; Wang, Wen-Tian; 	Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of β-thalassemia	Redox biology
+[1] F. Cao, Y. Jiang, L. Chang, H. Du, D. Chang, C. Pan, X. Huang, **D. Yu**, M. Zhang, Y. Fan, X. Bian, K. Li, High-throughput functional screen identifies YWHAZ as a key regulator of pancreatic cancer metastasis, Cell death & disease 14(7) (2023) 431.
 
-Cao, Fang; Jiang, Yunpeng; Chang, Lin; Du, Hongzhen; Chang, De; Pan, Chunxiao; Huang, Xiaozheng; **Yu, Donglin**; Zhang, Mi; Fan, Yongna; 	High-throughput functional screen identifies YWHAZ as a key regulator of pancreatic cancer metastasis	Cell Death & Disease
+[2] X. Nian, P. Lin, Y. Bai, **D. Yu**, X. Yang, B. Zhou, J. Gao, Y. Zhao, Osr1-mediated mesothelial transition of liver mesenchymal cells exacerbates fibrotic liver damage, Molecular therapy : the journal of the American Society of Gene Therapy 32(9) (2024) 2984-2991.
 
-**YU, Dong-lin**; YANG, Xi; YIN, Jia-ying; LIU, Xue-hui; LYU, Xiang; 	Nuclear transcription factors NFYB and NFYC promote terminal erythroid differentiation	Basic & Clinical Medicine
-SHI, Li-fang; **YU, Dong-lin**; LIU, Xue-hui; LYU, Xiang; 	Characterizing stage-specific transcriptome of terminal erythroid differentiation in bone marrow of β-654 thalassemia mice	Basic & Clinical Medicine
+[3] Y. Yang, D. Wen, F. Lin, X. Song, R. Pang, W. Sun, **D. Yu**, Z. Zhang, T. Yu, J. Kong, L. Zhang, X. Cao, W. Liao, D. Wang, Q. Yang, J. Liang, N. Zhang, K. Li, C. Xiong, Y. Liu, Suppression of non-muscle myosin II boosts T cell cytotoxicity against tumors, Science advances 10(44) (2024) eadp0631.
 
-WANG, Jiaxin; **YU, Donglin**; YANG, Xi; LIU, Xuehui; LYU, Xiang; 	Ikzf1 promotes terminal differentiation of mouse fetal liver derived erythroid cells	Basic & Clinical Medicine
+[4] R. Yang, **D. Yu**, J. Ren, J. Yin, J. Li, X. Liu, X. Lv, CD44 Deficiency Induces Combinatory NRF2 Inhibition and Endoplasmic Reticulum Stress-Associated Dyserythropoiesis, FASEB journal : official publication of the Federation of American Societies for Experimental Biology 39(11) (2025) e70695.
 
-HU, Xin-jun; **YU, Dong-lin**; FAN, Hong; HAN, Gai-jing; XUE, Zheng; LYU, Xiang; 	Protein tyrosine phosphatase 4A3 (PTP4A3) promotes enucleation in mouse fetal liver-derived erythroid cells	Basic & Clinical Medicine
+[5] J. Zhang, W. Wang, X. Liu, P. Lu, X. Liu, Q. Nie, S. Xin, H. Li, **D. Yu**, X. Zhang, K. Li, X. Han, S. Zhang, W. Chong, L. Sun, W. Li, T. Xin, J. Jiao, Q. Ma, Y. Wei, PDIA3 Inhibition Facilitates Sensitivity of IKE-Induced Ferroptosis via STAT3/LCN2 Axis to Improve Glioblastoma Therapy, Advanced science (Weinheim, Baden-Wurttemberg, Germany)  (2025) e14191.
 
-Nian, Xinxin; Lin, Pengyan; Bai, Yunfei; **Yu, Donglin**; Yang, Xinyan; Zhou, Bin; Gao, Jie; Zhao, Yang; 	Osr1-mediated mesothelial transition of liver mesenchymal cells exacerbates fibrotic liver damage	Molecular Therapy
-
+[6] G. Han, C. Cao, X. Yang, G.W. Zhao, X.J. Hu, **D.L. Yu**, R.F. Yang, K. Yang, Y.Y. Zhang, W.T. Wang, X.Z. Liu, P. Xu, X.H. Liu, P. Chen, Z. Xue, D.P. Liu, X. Lv, Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of β-thalassemia, Redox biology 50 (2022) 102239.
 
 
 ## Honors and Awards:
